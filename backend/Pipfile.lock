@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "87d2a6ce21ae1183af1a7a24092d5bd33873148d93061acf61f3a4a2abdaae0d"
+            "sha256": "a24f7c2ff44622d5b0e01341c99d1c91e5522d922c3bc826345cfa73801f4a61"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,10 +59,6 @@
         "cb-camera": {
             "editable": true,
             "path": "./modules/camera"
-        },
-        "cb-payments": {
-            "editable": true,
-            "path": "./modules/payments"
         },
         "certifi": {
             "hashes": [
