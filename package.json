@@ -14,10 +14,12 @@
   "dependencies": {
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/firebase-push-notifications": "file:./modules/firebase-push-notifications",
+    "@modules/login": "file:./modules/login/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/payments": "file:./modules/payments",
     "@modules/photo-editing": "file:./modules/photo-editing/",
     "@modules/push-notifications": "file:./modules/push-notifications/",
+    "@react-native-async-storage/async-storage": "1.17.9",
     "@react-native-community/cameraroll": "4.1.2",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/push-notification-ios": "^1.8.0",
