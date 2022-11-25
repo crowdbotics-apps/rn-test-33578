@@ -1,7 +1,0 @@
-pyproject.toml
-setup.py
-cb_firebase_push_notifications.egg-info/PKG-INFO
-cb_firebase_push_notifications.egg-info/SOURCES.txt
-cb_firebase_push_notifications.egg-info/dependency_links.txt
-cb_firebase_push_notifications.egg-info/requires.txt
-cb_firebase_push_notifications.egg-info/top_level.txt

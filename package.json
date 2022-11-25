@@ -15,7 +15,6 @@
     "@modules/camera": "file:./modules/camera",
     "@modules/chat": "file:./modules/chat/",
     "@modules/fingerprint-authentication": "file:./modules/fingerprint-authentication/",
-    "@modules/firebase-push-notifications": "file:./modules/firebase-push-notifications",
     "@modules/login": "file:./modules/login/",
     "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/payments": "file:./modules/payments",

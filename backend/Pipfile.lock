@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f43d4d2e96b60f5fb9762a01a401234438366c1d28390b67e3c75c216e686eae"
+            "sha256": "87d2a6ce21ae1183af1a7a24092d5bd33873148d93061acf61f3a4a2abdaae0d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,10 +59,6 @@
         "cb-camera": {
             "editable": true,
             "path": "./modules/camera"
-        },
-        "cb-firebase-push-notifications": {
-            "editable": true,
-            "path": "./modules/firebase_push_notifications"
         },
         "cb-payments": {
             "editable": true,

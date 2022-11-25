@@ -2268,9 +2268,6 @@
 "@modules/fingerprint-authentication@file:./modules/fingerprint-authentication":
   version "1.0.0"
 
-"@modules/firebase-push-notifications@file:./modules/firebase-push-notifications":
-  version "1.0.0"
-
 "@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
