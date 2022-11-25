@@ -12,6 +12,7 @@
     "web-build": "react-app-rewired build && mkdir -p backend/web_build && cp -R build/* backend/web_build"
   },
   "dependencies": {
+    "@modules/fingerprint-authentication": "file:./modules/fingerprint-authentication/",
     "@react-native-async-storage/async-storage": "1.17.9",
     "@react-native-community/cameraroll": "4.1.2",
     "@react-native-community/checkbox": "0.5.10",
