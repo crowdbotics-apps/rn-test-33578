@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-live-camera-filters](modules/live-camera-filters)
 - [react-native-login](modules/login)
 - [firebase-push-notifications]()
+- [react-native-appointment](modules/appointment)
 
 # Getting started: Frontend
 
