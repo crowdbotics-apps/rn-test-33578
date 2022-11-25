@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "50d4850ac6ef6a00cac5312cae808b05e0b10d7eb4cd1e16b44022da9f0b5247"
+            "sha256": "f43d4d2e96b60f5fb9762a01a401234438366c1d28390b67e3c75c216e686eae"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,6 +55,10 @@
             ],
             "markers": "python_version ~= '3.5'",
             "version": "==4.2.4"
+        },
+        "cb-camera": {
+            "editable": true,
+            "path": "./modules/camera"
         },
         "cb-firebase-push-notifications": {
             "editable": true,

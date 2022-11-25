@@ -2262,7 +2262,12 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
-"@modules/chat@file:./modules/chat/":
+"@modules/camera@file:./modules/camera":
+  version "1.0.1"
+  dependencies:
+    react-native-actionsheet "^2.4.2"
+
+"@modules/chat@file:./modules/chat":
   version "1.1.0"
   dependencies:
     is-url "^1.2.4"
@@ -8061,6 +8066,11 @@ react-is@^16.13.0, react-is@^16.13.1, react-is@^16.7.0, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-native-actionsheet@^2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/react-native-actionsheet/-/react-native-actionsheet-2.4.2.tgz#6a00dd51a75ef2c8974312130e405af73191500f"
+  integrity sha512-DBoWIvVwuWXuptF4t46pBqkFxaUxS+rsIdHiA05t0n4BdTIDV2R4s9bLEUVOGzb94D7VxIamsXZPA/3mmw+SXg==
+
 react-native-app-intro-slider@^4.0.4:
   version "4.0.4"
   resolved "https://registry.yarnpkg.com/react-native-app-intro-slider/-/react-native-app-intro-slider-4.0.4.tgz#fa5cda7057db62c448ac975ffd2ba0cff94cc8d8"
@@ -8186,10 +8196,10 @@ react-native-gl-image-filters@0.5.0:
   resolved "https://registry.yarnpkg.com/react-native-gl-image-filters/-/react-native-gl-image-filters-0.5.0.tgz#6e64c251805a0071e89d368096a0e06c3ae50e52"
   integrity sha512-iPDhaubovMkKrnUloYJbxfRxM3MmjqGtjsQYyfFX+q2JjzNpGdjl446P06V7vIHT8aZFdLbd27BMljgY++VdQg==
 
-react-native-image-crop-picker@^0.36.2:
-  version "0.36.4"
-  resolved "https://registry.yarnpkg.com/react-native-image-crop-picker/-/react-native-image-crop-picker-0.36.4.tgz#13a659fc296bea695a88a36de9eacd1e4aebc9b8"
-  integrity sha512-FOWkYbCEh78V5/aK9HqMSvRnQJtelGwj0UOu1zhE49gO6e4YoKKNBvA15jweAMM/kPA+omDXBIgJaruonoEXGA==
+react-native-image-crop-picker@0.36.2:
+  version "0.36.2"
+  resolved "https://registry.yarnpkg.com/react-native-image-crop-picker/-/react-native-image-crop-picker-0.36.2.tgz#fcb35c1a12d805bedbb6d94a87078e86a6c9b49f"
+  integrity sha512-cTauoEHHzx14ZHA7Pt65e7RVnbn1WRYQz2ufTZp9/05EtNDrdsXwNhgtXdWVFbOhYB8qgUFQjy2NelkBOHIH3g==
 
 react-native-image-picker@4.7.3:
   version "4.7.3"
