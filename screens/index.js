@@ -1,20 +1,25 @@
-import mods from "./*/index.js";
+import React from "react";
+import {
+  Text,
+  View,
+  StyleSheet
+} from "react-native";
 
-export const screens = mods.map(mod => {
-  return Object.assign(mod, {
-    value: {
-      navigator: mod.value,
-      title: mod.name
-    }
-  })
+const Welcome2 = () => {
+  return (
+    <View style={styles.container}>
+      <Text style={styles.heading}>Welcome-2</Text>
+    </View>
+  );
+};
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: "#fff"
+  },
+  heading: {
+    fontSize: 20
+  }
 });
 
-export function getNavigationScreen(name) {
-  const screen = screens.find(screen => screen.name == name);
-
-  if (screen) {
-    return screen.name
-  }
-
-  return name
-}
+export default Welcome2;
