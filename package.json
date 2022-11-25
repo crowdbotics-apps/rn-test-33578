@@ -14,6 +14,7 @@
   "dependencies": {
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/firebase-push-notifications": "file:./modules/firebase-push-notifications",
+    "@modules/push-notifications": "file:./modules/push-notifications/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/push-notification-ios": "^1.8.0",
     "@react-native-firebase/app": "^12.7.2",
@@ -29,6 +30,7 @@
     "react-native-dotenv": "^2.5.3",
     "react-native-elements": "^3.3.1",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-onesignal": "^4.0.3",
     "react-native-push-notification": "^7.3.1",
     "react-native-qrcode-svg": "6.1.2",
     "react-native-reanimated": "^2.0.0",
