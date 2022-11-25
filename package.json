@@ -12,7 +12,6 @@
     "web-build": "react-app-rewired build && mkdir -p backend/web_build && cp -R build/* backend/web_build"
   },
   "dependencies": {
-    "@modules/2fa": "file:./modules/2fa/",
     "@modules/camera": "file:./modules/camera",
     "@modules/chat": "file:./modules/chat/",
     "@modules/fingerprint-authentication": "file:./modules/fingerprint-authentication/",
