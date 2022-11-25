@@ -2263,6 +2263,9 @@
 "@modules/fingerprint-authentication@file:./modules/fingerprint-authentication":
   version "1.0.0"
 
+"@modules/firebase-push-notifications@file:./modules/firebase-push-notifications":
+  version "1.0.0"
+
 "@modules/live-camera-filters@file:./modules/live-camera-filters":
   version "1.0.0"
   dependencies:
@@ -2270,7 +2273,7 @@
     react-native-filter-camera "0.1.18"
     react-native-vector-icons "^9.2.0"
 
-"@modules/login@file:./modules/login/":
+"@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"

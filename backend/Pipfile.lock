@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "785046cac29623781163ba823c4abf3d3fc525b72b1700fc57b8d2cf86a0c0e8"
+            "sha256": "6846e54821919d7497a3656b52ba1dfac8df6d4467f650b3db544b4781614d07"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,6 +55,10 @@
             ],
             "markers": "python_version ~= '3.5'",
             "version": "==4.2.4"
+        },
+        "cb-firebase-push-notifications": {
+            "editable": true,
+            "path": "./modules/firebase_push_notifications"
         },
         "certifi": {
             "hashes": [
