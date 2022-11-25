@@ -1,5 +1,5 @@
 {
-    "name": "@screens/welcome-2",
+    "name": "@screens/barcode-scanner",
     "version": "1.0.0",
     "description": "",
     "private": true,
