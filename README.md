@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-fingerprint-authentication](modules/fingerprint-authentication)
 - [react-native-chat](modules/chat)
 - [react-native-live-camera-filters](modules/live-camera-filters)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
